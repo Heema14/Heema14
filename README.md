@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ibrahim</h1>
-<p>A passionate Full-Stack developer from palestine.</p>
+<p>A passionate Full-Stack developer from Palestine.</p>
 <p>🧑‍💻 A How to contact me: <a target="_blank" href="mailto:abrahimyaseen2811@gmail.com">abrahimyaseen2811@gmail.com</a></p>
 
 <h2>🧠 About me</h2>
