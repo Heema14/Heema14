@@ -3,7 +3,7 @@
 <p align="center">🧑‍💻 Contact me: <a target="_blank" href="mailto:abrahimyaseen2811@gmail.com">abrahimyaseen2811@gmail.com</a></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,nextjs,html,css,bootstrap,tailwind,babel,flutter,ps,xd,figma,postman,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,nextjs,html,css,bootstrap,tailwind,flutter,ps,xd,figma,postman,git&perline=8" />
 </p>
 
 
