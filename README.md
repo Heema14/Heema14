@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Heema14&fontSize=40" />
 
 <div align="center">
-<h1>Hi 👋, I'm Ibrahim Yassin</h1>
+<h1>Hi 👋, I'm Ibrahim Yaseen</h1>
 <p>Web Developer / Full Stack Developer</p>
 <p>🧑‍💻 Contact me: <a target="_blank" href="mailto:abrahimyaseen2811@gmail.com">abrahimyaseen2811@gmail.com</a></p>
 </div>
