@@ -22,4 +22,3 @@
 <a target="_blank" href="https://www.behance.net/heema-14" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heema14&theme=react-dark" />
